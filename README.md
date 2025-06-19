@@ -14,6 +14,19 @@ I'm passionate about data, technology, and AI. I actively explore and build proj
 
 ---
 
+## 📂 Projects
+
+### 🚀 [Hazardous NEO Classification](https://github.com/wilmanurfatimah/hazardous-neo-classification)  
+Developed supervised learning models to classify hazardous Near-Earth Objects (NEOs) based on their physical and orbital characteristics. Used algorithms like Logistic Regression, Random Forest, XGBoost, and Neural Networks.
+
+### 📊 [Customer Segmentation Project](https://github.com/wilmanurfatimah/customer-segmentation-project)  
+Performed clustering analysis on customer behavior using KMeans, Hierarchical Clustering, and Gaussian Mixture. Extracted actionable insights for targeted marketing and customer profiling.
+
+### 🐾 [Animal-10 CNN Classification](https://github.com/wilmanurfatimah/animal10-cnn-classification)  
+Built an image classification model using CNN with transfer learning (DenseNet121) to classify 10 animal categories. Achieved high accuracy through data augmentation and fine-tuning.
+
+---
+
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
